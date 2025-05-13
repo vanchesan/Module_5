@@ -1,8 +1,9 @@
-package org.example.module_5_consumer.Controller;
+package org.example.module_5_consumer.controller;
 
-import lombok.RequiredArgsConstructor;
-import org.example.module_5_consumer.DTO.UserDTO;
-import org.example.module_5_consumer.Service.NotificationService;
+import lombok.*;
+
+import org.example.module_5_consumer.dto.UserDTO;
+import org.example.module_5_consumer.service.NotificationService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController()

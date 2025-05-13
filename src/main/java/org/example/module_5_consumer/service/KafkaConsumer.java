@@ -1,10 +1,10 @@
-package org.example.module_5_consumer.Service;
+package org.example.module_5_consumer.service;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.*;
-import org.example.module_5_consumer.DTO.UserDTO;
+import org.example.module_5_consumer.dto.UserDTO;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 

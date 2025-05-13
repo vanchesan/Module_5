@@ -1,4 +1,4 @@
-package org.example.module_5_consumer.Service;
+package org.example.module_5_consumer.service;
 
 import lombok.*;
 

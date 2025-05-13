@@ -1,4 +1,4 @@
-package org.example.module_5_consumer.Service;
+package org.example.module_5_consumer.service;
 
 import jakarta.mail.internet.MimeMessage;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,4 @@
-package org.example.module_5_consumer.DTO;
+package org.example.module_5_consumer.dto;
 
 import lombok.*;
 
